@@ -5,6 +5,8 @@ HELP.md
 build/
 target/
 src/main/resources/
+src/main/ru.netology.sqr/main*
+Main.*
 
 ### STS ###
 .apt_generated
